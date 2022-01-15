@@ -1,0 +1,8 @@
+print("Hello World")
+print("Python with Ammar")
+print('test for single quote')
+print("test for double quote")
+print('''test for trriple quotes''')
+print("Whats's Up")
+print("  what's up    ?")
+print("srtring_clear")
