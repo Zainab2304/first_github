@@ -1,0 +1,11 @@
+Chapter_1 = Reading and image and displaying it
+Chapter_2 = Reading and  Resizing image and displaying it
+Chapter_3 = Conversion into Gray scale
+Chapter_4 = Image into Black and White image
+Chapter_5 = Image saving and writing images
+Chapter_6 = Reading a video
+Chapter_7 = Converting video to Gray and Bindary 
+Chapter_8 = Converting and Saving video to Gray and Binary
+Chapter_9 = Capturing a webcam inside python 
+Chapter_10 = Converting our webcam into gray and binary 
+Chapter_11 = Writing videos from Cam
